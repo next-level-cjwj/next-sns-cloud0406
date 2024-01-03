@@ -6,4 +6,6 @@ NextJS를 활용해 트위터 클론 코딩 서비스를 개발합니다.
 
 ###
 
-1주차 (CH1) : [https://relic-close-429.notion.site/Next-fccbe3cb6a0c4ff094e0a3ab614a4530?pvs=4](https://relic-close-429.notion.site/Section1-3b2094a5285a4759b8abdab97b0ffd86?pvs=4)https://relic-close-429.notion.site/Section1-3b2094a5285a4759b8abdab97b0ffd86?pvs=4
+1주차 (CH1) : https://relic-close-429.notion.site/Section1-3b2094a5285a4759b8abdab97b0ffd86?pvs=4
+
+2주차 (CH2) : https://relic-close-429.notion.site/Section2-e7fc131a7b4441868d93b816529c3c0a?pvs=4
